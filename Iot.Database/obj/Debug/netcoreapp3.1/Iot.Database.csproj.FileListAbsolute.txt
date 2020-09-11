@@ -1,0 +1,15 @@
+C:\Users\rajes\source\repos\Iot\Iot.Database\bin\Debug\netcoreapp3.1\Iot.Database.deps.json
+C:\Users\rajes\source\repos\Iot\Iot.Database\bin\Debug\netcoreapp3.1\Iot.Database.dll
+C:\Users\rajes\source\repos\Iot\Iot.Database\obj\Debug\netcoreapp3.1\Iot.Database.csprojAssemblyReference.cache
+C:\Users\rajes\source\repos\Iot\Iot.Database\obj\Debug\netcoreapp3.1\Iot.Database.AssemblyInfoInputs.cache
+C:\Users\rajes\source\repos\Iot\Iot.Database\obj\Debug\netcoreapp3.1\Iot.Database.AssemblyInfo.cs
+C:\Users\rajes\source\repos\Iot\Iot.Database\obj\Debug\netcoreapp3.1\Iot.Database.csproj.CoreCompileInputs.cache
+C:\Users\rajes\source\repos\Iot\Iot.Database\bin\Debug\netcoreapp3.1\Iot.Database.runtimeconfig.json
+C:\Users\rajes\source\repos\Iot\Iot.Database\bin\Debug\netcoreapp3.1\Iot.Database.runtimeconfig.dev.json
+C:\Users\rajes\source\repos\Iot\Iot.Database\obj\Debug\netcoreapp3.1\Iot.Database.genruntimeconfig.cache
+C:\Users\rajes\source\repos\Iot\Iot.Database\bin\Debug\netcoreapp3.1\Iot.Database.pdb
+C:\Users\rajes\source\repos\Iot\Iot.Database\bin\Debug\netcoreapp3.1\Iot.Infrastructure.dll
+C:\Users\rajes\source\repos\Iot\Iot.Database\bin\Debug\netcoreapp3.1\Iot.Infrastructure.pdb
+C:\Users\rajes\source\repos\Iot\Iot.Database\obj\Debug\netcoreapp3.1\Iot.Database.csproj.CopyComplete
+C:\Users\rajes\source\repos\Iot\Iot.Database\obj\Debug\netcoreapp3.1\Iot.Database.dll
+C:\Users\rajes\source\repos\Iot\Iot.Database\obj\Debug\netcoreapp3.1\Iot.Database.pdb

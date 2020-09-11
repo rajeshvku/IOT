@@ -1,0 +1,8 @@
+C:\Users\rajes\source\repos\Iot\Iot.Dto\bin\Debug\netcoreapp3.1\Iot.Dto.deps.json
+C:\Users\rajes\source\repos\Iot\Iot.Dto\bin\Debug\netcoreapp3.1\Iot.Dto.dll
+C:\Users\rajes\source\repos\Iot\Iot.Dto\bin\Debug\netcoreapp3.1\Iot.Dto.pdb
+C:\Users\rajes\source\repos\Iot\Iot.Dto\obj\Debug\netcoreapp3.1\Iot.Dto.AssemblyInfoInputs.cache
+C:\Users\rajes\source\repos\Iot\Iot.Dto\obj\Debug\netcoreapp3.1\Iot.Dto.AssemblyInfo.cs
+C:\Users\rajes\source\repos\Iot\Iot.Dto\obj\Debug\netcoreapp3.1\Iot.Dto.csproj.CoreCompileInputs.cache
+C:\Users\rajes\source\repos\Iot\Iot.Dto\obj\Debug\netcoreapp3.1\Iot.Dto.dll
+C:\Users\rajes\source\repos\Iot\Iot.Dto\obj\Debug\netcoreapp3.1\Iot.Dto.pdb

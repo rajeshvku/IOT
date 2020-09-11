@@ -1,0 +1,12 @@
+C:\Users\rajes\source\repos\Iot\Iot.Contracts\obj\Debug\netcoreapp3.1\Iot.Contracts.AssemblyInfoInputs.cache
+C:\Users\rajes\source\repos\Iot\Iot.Contracts\obj\Debug\netcoreapp3.1\Iot.Contracts.AssemblyInfo.cs
+C:\Users\rajes\source\repos\Iot\Iot.Contracts\obj\Debug\netcoreapp3.1\Iot.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\rajes\source\repos\Iot\Iot.Contracts\bin\Debug\netcoreapp3.1\Iot.Contracts.deps.json
+C:\Users\rajes\source\repos\Iot\Iot.Contracts\bin\Debug\netcoreapp3.1\Iot.Contracts.dll
+C:\Users\rajes\source\repos\Iot\Iot.Contracts\bin\Debug\netcoreapp3.1\Iot.Contracts.pdb
+C:\Users\rajes\source\repos\Iot\Iot.Contracts\bin\Debug\netcoreapp3.1\Iot.Dto.dll
+C:\Users\rajes\source\repos\Iot\Iot.Contracts\bin\Debug\netcoreapp3.1\Iot.Dto.pdb
+C:\Users\rajes\source\repos\Iot\Iot.Contracts\obj\Debug\netcoreapp3.1\Iot.Contracts.csprojAssemblyReference.cache
+C:\Users\rajes\source\repos\Iot\Iot.Contracts\obj\Debug\netcoreapp3.1\Iot.Contracts.csproj.CopyComplete
+C:\Users\rajes\source\repos\Iot\Iot.Contracts\obj\Debug\netcoreapp3.1\Iot.Contracts.dll
+C:\Users\rajes\source\repos\Iot\Iot.Contracts\obj\Debug\netcoreapp3.1\Iot.Contracts.pdb

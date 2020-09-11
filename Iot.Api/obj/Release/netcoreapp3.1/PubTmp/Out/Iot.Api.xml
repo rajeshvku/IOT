@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Iot.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Iot.Api.Controllers.BuildingController.GetTemperature(Iot.Dto.BuildingTemperature)">
+             <summary>
+              Get Temperature
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST
+                 {
+                    "region": "India",
+                    "location": "Bengaluru",
+                    "site": "Eco Space",
+                    "building": "Alpha"
+                 }
+            
+             </remarks>
+             <param name="buildingInfo"></param>
+             <returns></returns>
+        </member>
+        <member name="M:Iot.Api.Controllers.LocationController.AddLocation(Iot.Dto.AddLocationDto)">
+             <summary>
+             Need to pass location Details
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST
+                 {
+                    "region": "India",
+                    "location": "Bengaluru",
+                    "site": "Eco Space",
+                    "building": "Alpha"
+                 }
+            
+             </remarks>
+             <param name="location"></param>
+             <returns>returns a success full message</returns>
+        </member>
+    </members>
+</doc>

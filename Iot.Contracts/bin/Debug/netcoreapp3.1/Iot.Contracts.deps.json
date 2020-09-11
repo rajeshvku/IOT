@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Iot.Contracts/1.0.0": {
+        "dependencies": {
+          "Iot.Dto": "1.0.0"
+        },
+        "runtime": {
+          "Iot.Contracts.dll": {}
+        }
+      },
+      "Iot.Dto/1.0.0": {
+        "runtime": {
+          "Iot.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Iot.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Iot.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

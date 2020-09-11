@@ -1,0 +1,9 @@
+C:\Users\rajes\source\repos\Iot\Iot.Infrastructure\bin\Release\netcoreapp3.1\Iot.Infrastructure.deps.json
+C:\Users\rajes\source\repos\Iot\Iot.Infrastructure\bin\Release\netcoreapp3.1\Iot.Infrastructure.dll
+C:\Users\rajes\source\repos\Iot\Iot.Infrastructure\bin\Release\netcoreapp3.1\Iot.Infrastructure.pdb
+C:\Users\rajes\source\repos\Iot\Iot.Infrastructure\obj\Release\netcoreapp3.1\Iot.Infrastructure.csprojAssemblyReference.cache
+C:\Users\rajes\source\repos\Iot\Iot.Infrastructure\obj\Release\netcoreapp3.1\Iot.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rajes\source\repos\Iot\Iot.Infrastructure\obj\Release\netcoreapp3.1\Iot.Infrastructure.AssemblyInfo.cs
+C:\Users\rajes\source\repos\Iot\Iot.Infrastructure\obj\Release\netcoreapp3.1\Iot.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rajes\source\repos\Iot\Iot.Infrastructure\obj\Release\netcoreapp3.1\Iot.Infrastructure.dll
+C:\Users\rajes\source\repos\Iot\Iot.Infrastructure\obj\Release\netcoreapp3.1\Iot.Infrastructure.pdb
